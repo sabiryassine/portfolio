@@ -1,0 +1,75 @@
+.logo p {
+    font-family: "Ruwudu", serif;
+    font-size: 30px;
+    text-align: center;
+    color: white;
+    background-color: brown;
+    margin-left: 277%;
+    padding: 0% 20% 0% 20%;
+    border-radius: 10%;
+    display: inline-block;
+
+}
+
+.navbar{
+    margin-left: 30%;
+}
+.navbar p {
+
+    display: inline-block;
+    margin-right: 10px;
+    font-size: 20px;
+    font-family: "Oswald", sans-serif;
+}
+.navbar p:hover{
+    color: white;
+    background-color: brown;
+    cursor: pointer;
+}
+.logo, .navbar {
+    display: inline-block;
+}
+
+.about_left img{
+    height: 20%;
+    width: 33%;
+    margin-left: 37%;
+}
+.about {
+    display: inline-block;
+}
+#YASSINE {
+    font-family: "Oswald", sans-serif;
+    color: brown;
+    font-size: 30px;
+    font-weight: bold;
+
+}
+.about_left p {
+    font-family: "Oswald", sans-serif;
+    color: blue;
+}
+.about_right {
+    margin-right: auto;
+    display: inline-block;
+}
+.about_left{
+    display: inline-block;
+}
+
+.formation h1 {
+    font-family: "Oswald", sans-serif;
+    color: brown;
+    font-size: 30px;
+    font-weight: bold; 
+    margin-left: 15%;
+}
+
+.formation ul{
+    font-family: "Oswald", sans-serif;
+    margin-left: 20%;
+}
+
+.RS {
+    margin-left: 30%;
+}
